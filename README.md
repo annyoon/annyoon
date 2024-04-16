@@ -1,14 +1,7 @@
 ## 🚀 _Skills_
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-27272a?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS-27272a?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-27272a?style=flat-square&logo=TypeScript&logoColor=007ACC"/>
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+<img src="https://img.shields.io/badge/React-27272a?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-27272a?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-27272a?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
 
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://img.shields.io/badge/Sass-27272a?style=flat-square&logo=sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/styled--components-27272a?style=flat-square&logo=styled-components&logoColor=DB7093"/> <img src="https://img.shields.io/badge/Tailwind_CSS-27272a?style=flat-square&logo=tailwind-css&logoColor=38B2AC"/> <img src="https://img.shields.io/badge/Vuetify-27272a?style=flat-square&logo=vuetify&logoColor=1867C0"/>
