@@ -5,8 +5,3 @@
 <img src="https://img.shields.io/badge/React-f3f4f6?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-f3f4f6?style=flat-square&logo=nextdotjs&logoColor=000000"/> <img src="https://img.shields.io/badge/Vue.js-f3f4f6?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
 
 <img src="https://img.shields.io/badge/Sass-f3f4f6?style=flat-square&logo=sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/styled--components-f3f4f6?style=flat-square&logo=styled-components&logoColor=DB7093"/> <img src="https://img.shields.io/badge/Tailwind_CSS-f3f4f6?style=flat-square&logo=tailwind-css&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Vuetify-f3f4f6?style=flat-square&logo=vuetify&logoColor=1867C0"/>
-
-<br />
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annyoon&layout=donut)
